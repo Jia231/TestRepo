@@ -6,4 +6,8 @@ console.log('hello');
 
 console.log('c2')
 
+//C2.1
+
+console.log('C2.1')
+
 
